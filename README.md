@@ -33,3 +33,12 @@ python main.py
 ## Notes
 - Uses parameterized SQL queries to avoid SQL injection.
 - Schema uses foreign keys with `ON DELETE CASCADE` so deleting a student removes associated records.
+
+
+## Authors
+
+- **Mihir Patel**  
+  GitHub: https://github.com/mihir106901 
+
+- **Ishaan Ray**   
+  GitHub: https://github.com/Cipher-Shadow-IR
